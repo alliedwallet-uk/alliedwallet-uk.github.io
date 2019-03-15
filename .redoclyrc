@@ -1,0 +1,8 @@
+
+apiTitle: Nextgen
+splitSpec: true
+codeSamples: true
+swaggerUI: true
+travis: true
+repo: alliedwallet-uk/alliedwallet-uk.github.io
+oasVersion: 3.0.0
